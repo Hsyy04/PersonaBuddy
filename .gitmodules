@@ -1,0 +1,3 @@
+[submodule "my-profile-buddy-frontend"]
+	path = my-profile-buddy-frontend
+	url = git@github.com:Hsyy04/my-profile-buddy-frontend.git

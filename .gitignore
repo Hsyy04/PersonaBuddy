@@ -1,0 +1,10 @@
+agent/prompt/api.json
+*.pyc
+*.sqlite3
+.idea
+agent/personalities/*.json
+agent/personalities/*.dgl
+agent/personalities/*.gml
+*/__pycache__/*
+*.log
+logs/*
