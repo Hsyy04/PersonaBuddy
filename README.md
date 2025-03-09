@@ -19,7 +19,7 @@
 python 3.11以下
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
 
-requirements.txt是必须依赖的子集， requirements.txt.all是必需依赖的超集...  推荐：`pip install -r requirements.txt`
+requirements.txt是必须依赖的子集 `pip install -r requirements.txt`
 
 
 # 运行
